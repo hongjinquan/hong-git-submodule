@@ -1,0 +1,3 @@
+[submodule "studyNode"]
+	path = studyNode
+	url = git@github.com:hongjinquan/hong-study-node.git
